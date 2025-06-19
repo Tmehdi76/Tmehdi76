@@ -41,13 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehditaleb&show_icons=true&theme=radical&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehditaleb&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 - 📧 **Email:** mehdittaleb@gmail.com  
