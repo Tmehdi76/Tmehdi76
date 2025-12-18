@@ -2,7 +2,6 @@
 
 🎓 Computer Engineering Student at **ESTIN**  
 💻 Full-Stack Web & Mobile Developer | 🛡️ Cybersecurity Enthusiast  
-🧠 Passionate about building clean UIs, scalable apps, and exploring the darker corners of tech 🔐
 
 ---
 
@@ -45,8 +44,3 @@
 
 - 📧 **Email:** mehdittaleb@gmail.com  
 - 🌐 [Portfolio](https://mehdiportfoli0.netlify.app/)
-
----
-
-> “The quieter you become, the more you are able to hear.” — Lao Tzu  
-> ☕ Autistic mind, focused grind.
